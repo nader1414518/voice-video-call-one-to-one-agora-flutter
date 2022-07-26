@@ -24,8 +24,8 @@ However, if you want to create it a step by step read this guide
 - Then. go to cloud messaging tab and enable `Cloud Messaging API (Legacy)` if it's not enabled already and copy the server key there and replace the `fcmServerKey` in `utils.dart` with the one you copied from firebase
 - You may need to add these permissions to your `AndroidManifest.xml` in `/project-root/android/app/src/main`
 
-  `<uses-permission android:name="android.permission.READ_PHONE_STATE" />`
-  `<uses-permission android:name="android.permission.INTERNET" />`
+  `<uses-permission android:name="android.permission.READ_PHONE_STATE" />`                                                                                
+  `<uses-permission android:name="android.permission.INTERNET" />`                                                                                        
   `<uses-permission android:name="android.permission.RECORD_AUDIO" />`
   `<uses-permission android:name="android.permission.CAMERA" />`
   `<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />`
