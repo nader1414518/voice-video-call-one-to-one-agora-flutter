@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475110565337",
+    "firebase_url": "https://voicecall-one-to-one-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "voicecall-one-to-one",
+    "storage_bucket": "voicecall-one-to-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475110565337:android:836f54835123eadc9125c8",
+        "android_client_info": {
+          "package_name": "com.ns.voice_call_one_to_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475110565337-7j54amfbch9qbbf4stpo15c8m6n2d9eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgzP-HbSn85T_whPqFxJu154LVr3jjxdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475110565337-7j54amfbch9qbbf4stpo15c8m6n2d9eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
