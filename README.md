@@ -26,11 +26,11 @@ However, if you want to create it a step by step read this guide
 
   `<uses-permission android:name="android.permission.READ_PHONE_STATE" />`                                                                                
   `<uses-permission android:name="android.permission.INTERNET" />`                                                                                        
-  `<uses-permission android:name="android.permission.RECORD_AUDIO" />`
-  `<uses-permission android:name="android.permission.CAMERA" />`
-  `<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />`
-  `<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />`
-  `<uses-permission android:name="android.permission.BLUETOOTH" />`
-  `<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />`
-  `<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />`
-  `<uses-permission android:name="android.permission.WAKE_LOCK" />`
+  `<uses-permission android:name="android.permission.RECORD_AUDIO" />`                                                                                    
+  `<uses-permission android:name="android.permission.CAMERA" />`                                                                                          
+  `<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />`                                                                           
+  `<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />`                                                                            
+  `<uses-permission android:name="android.permission.BLUETOOTH" />`                                                                                       
+  `<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />`                                                                               
+  `<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />`                                                                           
+  `<uses-permission android:name="android.permission.WAKE_LOCK" />`                                                                                       
