@@ -33,4 +33,6 @@ However, if you want to create it a step by step read this guide
   `<uses-permission android:name="android.permission.BLUETOOTH" />`                                                                                       
   `<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />`                                                                               
   `<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />`                                                                           
-  `<uses-permission android:name="android.permission.WAKE_LOCK" />`                                                                                       
+  `<uses-permission android:name="android.permission.WAKE_LOCK" />`   
+  
+ - Now, you're good to go run `flutter run` and see it for your self
