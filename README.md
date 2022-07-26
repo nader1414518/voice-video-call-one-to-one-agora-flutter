@@ -42,3 +42,5 @@ However, if you want to create it a step by step read this guide
 ![alt video call demo](https://github.com/nader1414518/voice-video-call-one-to-one-agora/blob/screenshots/Screen%20Shot%202022-07-26%20at%2006.38.58.png)
 
 ## For any issues please contact me at: `nader19113@gmail.com` I will be more than happy to help!!
+
+Oops forgot to say this but you guys can use the code in the app however you like provided that you changed the app ids and server keys (it's for your own security, mine is limited trail account so if you use it you will get resource exhausted and quota issues you know)
