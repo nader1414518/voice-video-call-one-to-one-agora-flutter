@@ -36,3 +36,7 @@ However, if you want to create it a step by step read this guide
   `<uses-permission android:name="android.permission.WAKE_LOCK" />`   
   
  - Now, you're good to go run `flutter run` and see it for your self
+ 
+ 
+ ## Screenshots from the app
+
