@@ -4,7 +4,7 @@ Flutter implementation of voice and video calls one to one style (Messenger and 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project is ready to run just clone the repo and run '''flutter run'''
 
 A few resources to get you started if this is your first Flutter project:
 
