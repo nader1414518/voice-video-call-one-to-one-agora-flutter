@@ -4,7 +4,11 @@ Flutter implementation of voice and video calls one to one style (Messenger and 
 
 ## Getting Started
 
-The project is ready to run just clone the repo and run `flutter run`
+The project is ready to run just clone the repo and run `flutter run` in project root directory
+
+However, if you want to create it a step by step read this guide
+
+- First, Create a firebase project at [Firebase Console](https://console.firebase.google.com/)
 
 A few resources to get you started if this is your first Flutter project:
 
